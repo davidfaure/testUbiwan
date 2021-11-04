@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# .env 
+.env
+
+# testing route
+postman.http
+requests.http
+
+# uploads folder
+uploads/
+
+## VScode Extension
+.vscode
